@@ -1,0 +1,122 @@
+[
+    {
+        "Tipico": "Arroz con pato",
+        "Origen": "Plato tipico peruano",
+        "img": "https://recetascocinaperuana.com/wp-content/uploads/2023/02/arroz-a-la-chiclayana.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Pachamanca",
+        "Origen": "Plato tipico peruano",
+        "img": "https://usil-blog.s3.amazonaws.com/PROD/blog/image/dia-pachamanca.jpg",
+        "Region": 30
+    },
+    {
+        "Tipico": "Ceviche",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-006_0.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Causa",
+        "Origen": "Plato tipico peruano",
+        "img": "https://recetascocinaperuana.com/wp-content/uploads/2021/06/causa-limena.jpg",
+        "Region": 20
+    },
+    {
+        "Tipico": "Juane",
+        "Origen": "Plato tipico peruano",
+        "img": "https://recetascocinaperuana.com/wp-content/uploads/2020/05/juane.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Rocoto relleno",
+        "Origen": "Plato tipico peruano",
+        "img": "https://mirecetadehoy.com/wp-content/uploads/2022/11/rocoto-relleno_700x466.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Lomo saltado",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-004_0.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Causa limeña",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-008.jpg",
+        "Region": 20
+    },
+    {
+        "Tipico": "Tacacho con cecina",
+        "Origen": "Plato tipico peruano",
+        "img": "https://comidasperuanas.net/wp-content/uploads/2017/07/Tacacho-con-cecina.webp",
+        "Region": 25
+    },
+    {
+        "Tipico": "Aji de gallina",
+        "Origen": "Platos tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-005_0.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Papa ala huancaina",
+        "Origen": "Plato tipico peruano",
+        "img": "https://unacomidaperuana.com/wp-content/uploads/2020/04/papa-a-la-huacaina.jpg",
+        "Region": 20
+    },
+    {
+        "Tipico": "Aguadita",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-007.jpg",
+        "Region": 20
+    },
+    {
+        "Tipico": "Tacu tacu",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.lima2019.pe/sites/default/files/inline-images/preview-gallery-002.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Tallarin saltado criollo",
+        "Origen": "Plato tipico peruano",
+        "img": "https://pollerialamorada.com/wp-content/uploads/2020/12/polleria-la-morada-tallarin-saltado.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Carapulca y sopa seca",
+        "Origen": "Plato tipico peruano",
+        "img": "https://imgmedia.wapa.pe/650x368/wapa/migration/imagen/2019/07/04/noticia-1562251851-portada-carapulcra-con-sopa-seca.png",
+        "Region": 25
+    },
+    {
+        "Tipico": "Escabeche de pescado",
+        "Origen": "Plato tipico peruano",
+        "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_700/https://comococinar.pe/wp-content/uploads/2022/09/Escabeche-de-pescado.jpg",
+        "Region": 25
+    },
+    {
+        "Tipico": "Tamales de pollo o chancho",
+        "Origen": "Plato tipico peruano",
+        "img": "https://recetasdemipais.com/wp-content/uploads/2023/04/Receta-de-tamales-peruanos-de-pollo-o-chancho.jpg",
+        "Region": 15
+    },
+    {
+        "Tipico": "Arroz con leche",
+        "Origen": "Plato tipico peruano",
+        "img": "https://assets.unileversolutions.com/recipes-v2/230087.jpg?imwidth=1600",
+        "Region": 10
+    },
+    {
+        "Tipico": "Mazamorra morada",
+        "Origen": "Plato tipico peruano",
+        "img": "https://www.comedera.com/wp-content/uploads/2022/06/Mazamorra-morada-shutterstock_1530917543.jpg",
+        "Region": 10
+    },
+    {
+        "Tipico": "Picarones",
+        "Origen": "Plato tipico peruano",
+        "img": "https://decomidaperuana.com/wp-content/uploads/2020/05/picarones.jpg",
+        "Region": 10
+    }
+    ]
